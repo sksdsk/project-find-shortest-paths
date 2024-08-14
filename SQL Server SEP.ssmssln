@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Server SEP", "..\..\Documents\SQL Server Management Studio\SQL Server SEP\SQL Server SEP\SQL Server SEP.ssmssqlproj", "{34E63407-DDC7-4C0C-B9FF-949C5314AF23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E63407-DDC7-4C0C-B9FF-949C5314AF23}.Default|Default.ActiveCfg = Default
+		{100FC2EC-05E5-4673-9BE9-FE2EC47A1F50}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B0993B6-B5BD-4130-8498-2C62F1986668}
+	EndGlobalSection
+EndGlobal
