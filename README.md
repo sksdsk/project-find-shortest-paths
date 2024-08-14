@@ -1,6 +1,11 @@
 # PATH_4
 
+**About**
+
+This uni project is a collaborative effort involving 9 participants, focusing on software engineering and agile development processes.
+
 **Background**
+
 In the world of modern industry, a streamlined and optimized material transport process not only
 reduces operational costs but also enhances overall productivity. Hence, a robust shortest path algorithm
 could be required by plant managers to improve production efficiency. This project aims to develop a
@@ -8,12 +13,14 @@ shortest path algorithm in SQL that will return a list of shortest paths between
 through a list of devices, ultimately minimizing the time taken for material transportation.
 
 **Specifications**
+
 The factory could be mapped out as a graph. Several types of devices are available, but only certain ones
 could be selected as source or destination. Divergent device could transfer the material to multiple
 destinations, and convergent device could take in materials from multiple sources.
 The shortest path should connect the source and destination while minimising the cost.
 
 **Deliverables**
+
 The major deliverables of this project are a SQL function implementing the shortest paths algorithm, as
 well as a device database that the function operates on.
 The SQL script should be able to:
