@@ -1,0 +1,26 @@
+Title	Assignees	Status	Labels
+For story 7, As a user, I want the execution time of each operation to be optimised as possible and visualise the output (the 5 shortest paths) as a table or as a console output ordered by the path cost, so that user experience aspect will be improved		Product Backlog	
+Format our code output.		To do	
+Brief meeting every Tuesday to discuss and finalize Snapshot. Time 3pm-5pm on Tuesday		In progress	
+Meet with client on Monday at 18:30. [Be sure to recording the meeting]		Done	
+Correct how the cost is calculated.		Done	
+For story 6, As a user, I want to get 5 shortest paths given a single source and multiple destinations, so that material distribution will be efficient.		Done	
+Complete story 5: Use this time to catch up		Done	
+Complete story 4: Alter the program to accept multiple destination scenarios		Done	
+For story 5, As a user, when I provide with the start and end device, I want the top five shortest paths. If there are no five paths, the program should give me the most number of shortest path found.		Done	
+For story 4, there will only be,		Done	
+A database using mssql's shortest path feature		Done	
+Change our database structure.		Done	
+Week 8 mark devices exclude. avoid if the short path can be identified		Done	
+As a user I want to mark devices to exclude, so that shortest paths can be identified avoiding them.		Done	
+As a user, I want to get the shortest path between 2 given devices so that material transportation will be efficient.		Done	
+As a user, I want to store devices in the system so that I can add/remove/update them.		Done	
+Meet with client at Monday 4 of September at 6:10 pm - 6:35 pm. [Be sure to recording the meeting ]		Done	
+Get feedback and review meeting question on Client meeting.		Done	
+Record the meeting		Done	
+Construct the SQL table according to the initial report		Done	
+Mac-  use Datagrip to write mysql 		Done	
+Install mssql server.		Done	
+Finished the first meeting, get some questions answer		Done	
+Design rough sketch of the potential architecture of your application by diagrams. Can be structured UML (eg: Lucidchart), but can also be an ad hoc boxes-and-arrows diagrams with a legend.		Done	
+Team meeting. Discuss the roles in Initial report and  First Spring  		Done	
